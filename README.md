@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikas56655
+- 👋 Hi, I’m Vikas, I am based in Germany !
 - 👀 I’m interested in Data, Food & Mountains
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Data Analysis Projects 

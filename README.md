@@ -1,5 +1,5 @@
 - 👋 Hi there, Vikas from Germany! 🇩🇪
-- 👀  I'm fueled by data, fueled by food, and fueled by climbing mountains (figuratively... mostly). ‍♂️
+- 👀  I'm fueled by data, food, and by climbing mountains (figuratively... mostly). ‍♂️
 - 🌱 Currently mastering the art of Data Structures and Algorithms, one sleepless night at a time.
 - 💻 Programming languages: Java, Python, R, and LaTeX. (Bit of a polyglot there)
 - 🗣  Languages : English(C2+), German(B1), Hindi & Bengali(Native fluency)

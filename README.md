@@ -1,6 +1,7 @@
 - 👋 Hi there, Vikas from Germany! 🇩🇪
 - 👀  I'm fueled by data, fueled by food, and fueled by climbing mountains (figuratively... mostly). ‍♂️
 - 🌱 Currently mastering the art of Data Structures and Algorithms, one sleepless night at a time.
+- ** (⌐■_■) Programming languages I know are Java, Python, R, and LaTeX. (Yes, I'm a bit of a polyglot when it comes to coding languages, but I still struggle with basic human interaction. )**
 - 💞️ I’m looking to collaborate on Data Analysis Projects 
 - 📫 Hit me up at vikas.singh56655@gmail.com if you're down to code and chow down.
 - 😄 Pronouns: He/Him

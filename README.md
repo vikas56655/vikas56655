@@ -1,4 +1,4 @@
-- 👋 Hi there, Vikas from Germany! 🇩🇪
+- 👋 Hi there, I am Vikas from Germany! 🇩🇪
 - 👀  I'm fueled by data, food, and by climbing mountains (figuratively... mostly). ‍♂️
 - 🌱 Currently mastering the art of Data Structures and Algorithms, one sleepless night at a time.
 - 💻 Programming languages: Java, Python, R, and LaTeX. (Bit of a polyglot there)

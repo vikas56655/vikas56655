@@ -2,7 +2,7 @@
 - 👀  I'm fueled by data, food, and by climbing mountains (figuratively... mostly). ‍♂️
 - 🌱 Currently mastering the art of Data Structures and Algorithms, one sleepless night at a time.
 - 💻 Programming languages: Java, Python, R, and LaTeX. (Bit of a polyglot there)
-- 🗣  Languages : English(C2+), German(B1), Hindi & Bengali(Native fluency)
+- 🗣  Languages : English(C2+), German(B1), Hindi(Native fluency) & Bengali(Native fluency)
 - 💞️ I’m looking to collaborate on Data Analysis Projects 
 - 📫 Hit me up at vikas.singh56655@gmail.com if you're down to code and chow down.
 - 😄 Pronouns: He/Him

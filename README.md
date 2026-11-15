@@ -1,8 +1,6 @@
 
 # Hi, I'm Vikas Singh 👋
 
-**Data Science · Machine Learning · Statistical Modelling**
-
 📍 Düsseldorf, Germany 🇩🇪
 
 I'm a Data Science master's student with an interest in statistical modelling, machine learning, and solving real-world problems through data. I enjoy exploring patterns, building predictive models, and continuously learning new technologies.

@@ -39,20 +39,6 @@ A bit of a programming polyglot, you could say.
 
 ---
 
-### 📊 Featured Project
-
-**[Tennis Match Outcome Prediction](https://github.com/vikas56655/tennis-analytics-match-prediction)**
-
-Exploring statistical and machine learning approaches to predicting tennis match outcomes.
-
-- Building and comparing predictive models.
-- Evaluating performance using accuracy, log loss, and other metrics.
-- Exploring how player characteristics and historical performance influence match predictions.
-
-*Python · Machine Learning · Sports Analytics*
-
----
-
 ### 🌍 Languages I Speak
 
 `🇬🇧 English · C2+` &nbsp; `🇩🇪 German · B1` &nbsp; `🇮🇳 Hindi · Native` &nbsp; `🇮🇳 Bengali · Native`
@@ -61,19 +47,15 @@ Exploring statistical and machine learning approaches to predicting tennis match
 
 ### 🤝 Let's Connect
 
-I'm always open to collaborating on interesting data analysis projects, exchanging ideas, or simply connecting with fellow developers.
+I'm always open to collaborating on interesting data analysis projects, exchanging ideas, or simply connecting with fellow developers. If you're down to code and chow down, feel free to reach out!
 
 🌐 **Visit my [personal website](https://vikas56655.github.io/)** to learn more about my work and get in touch.
-
-If you're down to code and chow down, feel free to reach out!
 
 ---
 
 ### ⚡ A Little Fun Fact
 
-Lego minifigs outnumber actual humans on Earth.
-
-*Don't worry, I'm still real... I think.* 😄
+Lego minifigs outnumber actual humans on Earth. *Don't worry, I'm still real... I think.* 😄
 
 ---
 

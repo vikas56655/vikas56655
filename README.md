@@ -3,17 +3,13 @@
 
 **Data Science · Machine Learning · Statistical Modelling**
 
-📍 Dortmund, Germany 🇩🇪
+📍 Düsseldorf, Germany 🇩🇪
 
-I'm a Data Science master's student with an interest in statistical modelling, machine learning, and solving real-world problems through data.
-
-I enjoy exploring patterns, building predictive models, and continuously learning new technologies.
+I'm a Data Science master's student with an interest in statistical modelling, machine learning, and solving real-world problems through data. I enjoy exploring patterns, building predictive models, and continuously learning new technologies.
 
 ---
 
 ### 👨‍💻 About Me
-
-- 👋 Hi there, I am Vikas from Germany! 🇩🇪
 - 👀 I'm fueled by data, food, and climbing mountains (figuratively... mostly). 🏔️
 - 🌱 Currently mastering the art of Data Structures and Algorithms, one sleepless night at a time.
 - 💞️ I'm looking to collaborate on Data Analysis Projects.

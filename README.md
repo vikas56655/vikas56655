@@ -5,9 +5,7 @@
 
 📍 Dortmund, Germany 🇩🇪
 
-I'm a Data Science master's student with an interest in statistical modelling, machine learning, and solving real-world problems through data.
-
-I enjoy exploring patterns, building predictive models, and continuously learning new technologies.
+I'm a Data Science master's student with an interest in statistical modelling, machine learning, and solving real-world problems through data. I enjoy exploring patterns, building predictive models, and continuously learning new technologies.
 
 ---
 
@@ -32,19 +30,8 @@ A bit of a programming polyglot, you could say.
 
 **Areas of Interest**
 
-`Data Science` · `Machine Learning` · `Statistical Modelling` · `Predictive Analytics` · `Data Visualisation`
+`Data Science` · `Machine Learning` · `Statistical Modelling` · `Predictive Analytics` · `Data Visualisation`· `NLP`
 
-### 📊 Featured Project
-
-**[Tennis Match Outcome Prediction](https://github.com/vikas56655/tennis-analytics-match-prediction)**
-
-Exploring statistical and machine learning approaches to predicting tennis match outcomes.
-
-- Building and comparing predictive models.
-- Evaluating performance using accuracy, log loss, and other metrics.
-- Exploring how player characteristics and historical performance influence match predictions.
-
-*Python · Machine Learning · Sports Analytics*
 
 ### 🌍 Languages I Speak
 
